@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;600;700;900&display=swap');
+
+
+.fondo_todo {
+    background-color: beige;
+
+}
+
+/* Bloque 1 */
+
+
+.inicioportada {
+    background-color: transparent;
+    position: relative;
+    background-size: cover;
+    margin: 0px 0px;
+    width: auto;
+    height: 450px;
+    background-image: url(../SITIO_2NOTICIAS/Assets/img/Face-redYES.png);
+    background-position-y: center;
+}
+
+
+
+.Título__blanco {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 50px;
+    margin: 0px 0px;
+    padding-top: 370px;
+    padding-left: 650px;
+}
+
+
+
+/* Bloque 2 */
+
+.seccionx {
+    background-color: transparent;
+    width: 400px;
+    display: table-cell;
+    position: relative;
+    top: 20px;
+}
+
+.img2 {
+    height: 300px;
+    width: auto;
+    padding-top: 20px;
+}
+
+.p1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 11px;
+    padding-left: 40px;
+    position: relative;
+    top: -75px;
+}
+
+.h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: black;
+    font-size: 40px;
+    padding-left: 30px;
+    position: relative;
+    top: -15px;
+}
+
+.h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: rgb(177, 177, 4);
+    font-size: 15px;
+    padding-left: 40px;
+
+}
+
+.noticiasimg {
+    width: 150px;
+    height: auto;
+    padding-left: 40px;
+}
+
+.noticia1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: black;
+    font-size: 11px;
+    width: 200px;
+    position: relative;
+    left: 210px;
+    top: -298px;
+}
+
+.noticia2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: black;
+    font-size: 11px;
+    width: 200px;
+    position: relative;
+    left: 210px;
+    top: -250px;
+}
+
+.noticia3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: black;
+    font-size: 11px;
+    width: 200px;
+    position: relative;
+    left: 210px;
+    top: -200px;
+}
+
+
+
+/* Bloque 3 */
+
+.infocuerpo {
+    background-color: transparent;
+    width: 495px;
+    display: table-cell;
+    padding-left: 40px;
+    position: relative;
+    top: -260px;
+    right: -150px;
+}
+
+.Título__negro {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: black;
+    font-size: 29px;
+
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: black;
+    font-size: 13px;
+}
+
+
+
+/* Bloque 4 */
+
+.final {
+    background-color: transparent;
+    height: 200px;
+    position: relative;
+    top: -30px;
+    overflow: hidden;
+}
+
+.finalfondo {
+    height: 110px;
+    width: 1000px;
+    padding-left: 263px;
+}
+
+.logo {
+    height: 190px;
+    width: auto;
+    padding-left: 25px;
+    position: relative;
+    top: -145px;
+}
+
+.pf {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    width: 50%;
+    color: white;
+    margin: 0px 0px;
+    padding-left: 300px;
+    position: relative;
+    top: -265px;
+}
